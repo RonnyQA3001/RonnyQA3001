@@ -7,12 +7,12 @@
 I am a QA Analyst specialising in manual and automated testing with tools such as Selenium and Playwright. Experienced in creating robust test strategies, integrating frameworks with CI/CD, and using tools like Jira and TestRail for efficient issue tracking. Passionate about collaborating with teams and leveraging new technologies to improve workflows, and ensure the best testing performance.
 * **I am interested in Web designing, Automation development, and Artficial inteligence**
 - 🌱 I’m currently learning ...
-  - AWS
-  - BrowserStack
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+  - Jenkins
+  - Selenium with Java
+- 🌐 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am available for new job offers😉<br>
+- Outside tech, 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="ronny.rodriguez.qa@gmail.com">ronny.rodriguez.qa@gmail.com</a>
 
 __Check out my GitHub repository:__
 
