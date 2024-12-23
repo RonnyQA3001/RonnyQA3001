@@ -11,15 +11,15 @@ I am a QA Analyst specialising in manual and automated testing with tools such a
   - Selenium with Java
 - 🌐 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am available for new job offers😉<br>
-- Outside tech, 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
+- Outside tech: 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ronny.rodriguez.qa@gmail.com">ronny.rodriguez.qa@gmail.com</a>
 
 __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    <a href="https://github.com/RonnyQA3001/Playwright_tests/tree/master/Amazon%20Test">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Playwright_tests" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
@@ -38,14 +38,13 @@ __Check out my GitHub repository:__
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargavi-hash" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyQA3001" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Bhargavi-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargavi-hash&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=RonnyQA3001&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyQA3001&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
 
-Date: 18/11/2021
+
