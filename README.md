@@ -14,6 +14,13 @@ I am a QA Analyst specialising in manual and automated testing with tools such a
 - Outside tech: 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ronny.rodriguez.qa@gmail.com">ronny.rodriguez.qa@gmail.com</a>
 
+<h2> My skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,javascript,typescript,postman,css,mysql,gherkin,jenkins,java,selenium,pycharm" />
+  </a>
+</p>
+
 __Check out my GitHub repository:__
 
 <div>
