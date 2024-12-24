@@ -8,7 +8,7 @@ I am a QA Analyst specialising in manual and automated testing with tools such a
 * **I am interested in Web designing, Automation development, and Artficial inteligence**
 - 🌱 I’m currently learning ...
   - Jenkins
-  - Selenium with Java
+  - Selenium with Python
 - 🌐 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am available for new job offers😉<br>
 - Outside tech: 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
