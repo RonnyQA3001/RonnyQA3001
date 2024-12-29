@@ -28,7 +28,7 @@ __Check out my GitHub repository:__
     <a href="https://github.com/RonnyQA3001/Playwright_tests/tree/master/Amazon%20Test">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Playwright_tests" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+    <a href="https://github.com/RonnyQA3001/Selenium_with_Python">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Selenium_with_Python" alt="GitHub Stats" />
     </a>
   </p>
