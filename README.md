@@ -29,7 +29,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Playwright_tests" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Selenium_with_Python" alt="GitHub Stats" />
     </a>
   </p>
 </div>
