@@ -27,7 +27,7 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/RonnyQA3001/Playwright_tests/tree/master/Amazon%20Test">
+    <a href="https://github.com/RonnyQA3001/Playwright_proyect">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&repo=Playwright_tests" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/RonnyQA3001/Selenium_with_Python">
