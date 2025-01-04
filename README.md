@@ -29,7 +29,7 @@ __Check out my GitHub repositories:__
 <div>
   <p align="center">
     <a href="https://github.com/RonnyQA3001/Playwright_proyect">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Playwright_proyect" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Playwright_project" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/RonnyQA3001/Selenium_with_Python">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Selenium_with_Python" alt="GitHub Stats" />
