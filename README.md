@@ -15,7 +15,7 @@ I am a QA Analyst specialising in manual and automated testing with tools such a
 - Outside tech: 📖 I love to read manga, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="ronny.rodriguez.qa@gmail.com">ronny.rodriguez.qa@gmail.com</a>
 
-* **Note: Some projects are not finished, but I will upload the description of each part as soon as possible** *
+* **Note: Some projects are not finished, but I will upload the description of each part as soon as possible *
 
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
