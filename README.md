@@ -5,10 +5,10 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a QA Analyst specialising in manual and automated testing with tools such as Selenium and Playwright. Experienced in creating robust test strategies, integrating frameworks with CI/CD, and using tools like Jira and TestRail for efficient issue tracking. Passionate about collaborating with teams and leveraging new technologies to improve workflows, and ensure the best testing performance.
+I am a QA Engineer specialising in manual and automated testing with tools such as Selenium and Playwright. Experienced in creating robust test strategies, integrating frameworks with CI/CD, and using tools like Jira and TestRail for efficient issue tracking. Passionate about collaborating with teams and leveraging new technologies to improve workflows, and ensure the best testing performance.
 * **I am interested in Web designing, Automation development, and Artficial inteligence**
 - 🌱 I’m currently learning ...
-  - Jenkins
+  - SoapUI
   - Appium
 - 🌐 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am available for new job offers😉<br>
