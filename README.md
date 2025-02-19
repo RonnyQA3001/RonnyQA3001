@@ -31,8 +31,8 @@ __Check out my GitHub repositories:__
     <a href="https://github.com/RonnyQA3001/Playwright_proyect">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Playwright_project" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/RonnyQA3001/Selenium_with_Python">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Selenium_with_Python" alt="GitHub Stats" />
+    <a href="https://github.com/RonnyQA3001/Demo_OrangeHrm_selenium_python">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Demo_OrangeHrm_selenium_python" alt="GitHub Stats" />
     </a>
   </p>
 </div>
