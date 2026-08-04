@@ -22,7 +22,7 @@ I am a QA Engineer specialising in manual and automated testing with tools such 
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,javascript,typescript,postman,css,mysql,gherkin,jenkins,java,selenium,pycharm" />
+    <img src="https://skillicons.dev/icons?i=git,python,javascript,typescript,postman,jest,mysql,gherkin,githubactions,java,selenium,pycharm,maven" />
   </a>
 </p>
 
@@ -55,6 +55,7 @@ __Check out my GitHub repositories:__
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RonnyQA3001&theme=react-dark)](https://github.com/RonnyQA3001/github-readme-activity-graph)
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyQA3001&theme=dark&hide_border=false" /> 
 </td>
 
