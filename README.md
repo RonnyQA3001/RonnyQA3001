@@ -1,15 +1,17 @@
 <h1 align="center"><b>Hi , I'm Ronny Rodriguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+<p><img align="right" height="300" width="350" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
 
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a QA Engineer specialising in manual and automated testing with tools such as Selenium, Playwright, Cypress and Appium. Experienced in creating robust test strategies, integrating frameworks with CI/CD, and using tools like Jira and TestRail for efficient issue tracking. Passionate about collaborating with teams and leveraging new technologies to improve workflows, and ensure the best testing performance.
+I am a QA Engineer specialising in manual and automated testing with tools such as Selenium, Playwright, Cypress, and more. Experienced in creating robust test strategies, integrating frameworks with CI/CD, and using tools like Jira and TestRail for efficient issue tracking.
+
+⚙️Beyond the QA world, I am deeply passionate about Machine Learning and actively working on ML projects that I’ll be sharing here soon. Always excited to collaborate with teams and leverage new technologies to improve workflows and deliver high-quality software.
 * **I am interested in Web designing, Automation development, and Artficial inteligence**
 - 🌱 I’m currently learning ...
   - RestAssured
-  - Cucumber
+  - Rust
 - 🌐 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am available for new job offers😉<br>
 - Outside tech: 📖 I love to read, ⚽ I’m a soccer enthusiast, 🌴 explore nature outdoors.
@@ -40,6 +42,7 @@ __Check out my GitHub repositories:__
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -47,10 +50,14 @@ __Check out my GitHub repositories:__
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RonnyQA3001&theme=dark&show_icons=true&count_private=true" />
+
   <br></br>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RonnyQA3001&theme=dark&hide_border=false" /> 
 </td>
+
 
 <td width="50%" align="center">
 
