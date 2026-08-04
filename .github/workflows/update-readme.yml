@@ -1,0 +1,20 @@
+name: Update README with Recent Repos
+
+on:
+  schedule:
+   
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update Recent Repositories
+        uses: readmify/recent-repos-readme@v1.0.1
+        with:
+          user_name: 'RonnyQA3001'
+          max_repos: '5' 
