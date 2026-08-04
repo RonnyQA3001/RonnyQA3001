@@ -30,11 +30,11 @@ __Check out my GitHub repositories:__
 
 <div>
   <p align="center">
-    <a href="https://github.com/RonnyQA3001/Playwright_proyect">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=Playwright_proyect" alt="Playwright Project" />
-    </a>
     <a href="https://github.com/RonnyQA3001/SeleniumJava-Ecommerce">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=SeleniumJava-Ecommerce" alt="Selenium Ecommerce" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=SeleniumJava-Ecommerce" alt="SeleniumJava-Ecommerce" />
+    </a>
+    <a href="https://github.com/RonnyQA3001/SentinelQA">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=RonnyQA3001&theme=dark&repo=SentinelQA" alt="SentinelQA" />
     </a>
   </p>
 </div>
