@@ -10,7 +10,7 @@ I am a QA Engineer specialising in manual and automated testing with tools such 
 ⚙️Beyond the QA world, I am deeply passionate about Machine Learning and actively working on ML projects that I’ll be sharing here soon. Always excited to collaborate with teams and leverage new technologies to improve workflows and deliver high-quality software.
 * **I am interested in Web designing, Automation development, and Artficial inteligence**
 - 🌱 I’m currently learning ...
-  - RestAssured
+  - Java
   - Rust
 - 🌐 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am available for new job offers😉<br>
